@@ -1,0 +1,7 @@
+{
+    "gdrive_from_folder": "Notes",
+    "webdav_url": "https://nextcloud.example.com/remote.php/dav/files/alice/",
+    "webdav_root_path": "/dest/folder",
+    "webdav_username": "alice",
+    "webdav_password": "hunter2"
+}

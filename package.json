@@ -1,0 +1,15 @@
+{
+  "name": "gdrive-to-webdav",
+  "version": "1.0.0",
+  "description": "A small script to move files from Google Drive to Webdav (e.g. Nextcloud)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^39.2.0",
+    "webdav": "^3.6.1"
+  }
+}
