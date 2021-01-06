@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "googleapis": "^39.2.0",
+    "googleapis": "^66.0.0",
     "webdav": "^3.6.2"
   }
 }
