@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "googleapis": "^39.2.0",
-    "webdav": "^3.6.1"
+    "webdav": "^3.6.2"
   }
 }
