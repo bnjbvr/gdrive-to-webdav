@@ -16,3 +16,14 @@ requirements
   following the tutorial on step 1 there.
 - This requires a `config.json` file; look at the `config.json.example` file to
   get inspiration.
+
+how to use
+===
+
+- install dependencies with: `npm install`
+- copy `config.json.example` to `config.json`, and modify it as indicated:
+    - `gdrive_from_folder`: from which gdrive folder should we read files?
+    - `webdav_url`: base WebDAV URL
+    - `webdav_root_path`: WebDAV path where files will be copied
+    - `webdav_username` / `webdav_password`: WebDAV user name and password :-)
+- run with `node index`
