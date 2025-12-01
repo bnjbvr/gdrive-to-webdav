@@ -1,6 +1,13 @@
 google-drive-to-webdav
 ===
 
+CURRENT STATUS
+===
+
+This project is **unmaintained**, and as such it hasn't received any dependency update for a while. I'm not even sure that it still works, at the time of typing this (2025-12-01). I just wanted to say good luck, and that we're all counting on you.
+
+---
+
 Performs the following actions:
 
 - Reads files from a google drive source,
